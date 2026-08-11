@@ -1,12 +1,11 @@
 ## Bem-vindo(a) ao meu perfil Ricardo Leão 😁
-
 <div>
   <a href="https://github.com/Ricardoleaom">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ricardoleaom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardoleaom&layout=compact&langs_count=6&theme=tokyonight" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ricardoleaom&show_icons=true&theme=tokyonight&cache_seconds=86400&v=99" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardoleaom&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400&v=99" />
   </a>
 </div>
-    
+
 <div style="display: inline-block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
