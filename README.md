@@ -34,7 +34,13 @@ Com 15 anos de vivência corporativa em gestão e infraestrutura. Atualmente em 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"> 
 </div>
- 
+
+ ### 📊 Estatísticas no GitHub
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ricardoleaom&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ricardoleaom&theme=radical&layout=compact&hide=html,css" alt="Linguagens Mais Utilizadas" />
+</p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=023e84&height=120&section=footer"/>
